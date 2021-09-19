@@ -72,16 +72,15 @@ from dataclasses import asdict, dataclass
 
 
 @dataclass
-class Maubg:
-    projects: tuple[str, ...] = ("Wonoly", "Os lite", "HostHome", "Learner", "...")
-    name: tuple[str, ...] = ("Maubg")
+class Profile:
+    name: tuple[str, ...] = ("Mauro Balades")
 
     def jsonify(self) -> str:
         return json.dumps(asdict(self), indent=4)
 
 
-maubg = Maubg()
-print(Maubg.jsonify())
+me = Profile()
+print(me.jsonify())
 
 ```
 	

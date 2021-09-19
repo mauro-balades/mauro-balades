@@ -139,7 +139,7 @@
             </div>
             <style>
                 .logo {
-                    transform: translate(30%, 32%);
+                    transform: translate(40%, 40%);
                 }
 
                 .outer {
