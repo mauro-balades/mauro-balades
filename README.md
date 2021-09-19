@@ -97,8 +97,8 @@ print(me.jsonify())
     	Website
     </a>
      · 
-	<a href="https://discord.bio/p/maubg" target="_blank">
-    	dsc.bio
+	<a href="https://ko-fi.com/maurobalades" target="_blank">
+    	Ko-fi
     </a>
 <h3>
 
