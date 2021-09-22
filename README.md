@@ -13,7 +13,7 @@ I am a student / programmer, always to trying to learn new things.
 
 <p display="flex">
 	<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-	&nbsp; <img src="https://img.shields.io/badge/TpyeScript-282C34?logo=typescript&logoColor=blue" alt="TypeScript logo" title="TypeScript" height="25" />
+	&nbsp; <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />
 	&nbsp; <img src="https://img.shields.io/badge/React (native)-282C34?logo=react" alt="React logo" title="React / React native" height="25" />
 	&nbsp; <img src="https://img.shields.io/badge/Scss-282C34?logo=sass" alt="Sass logo" title="Sass" height="25" />
 	&nbsp; <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
@@ -51,7 +51,7 @@ I am a student / programmer, always to trying to learn new things.
 	&nbsp; <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=blue" alt="Windows logo" title="Windows" height="25" />
 	&nbsp; <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="git logo" title="Git" height="25" />
 	&nbsp; <img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity logo" title="Unity" height="25" />
-	&nbsp; <img src="https://img.shields.io/badge/figma / adoble xd / sketch-282C34?logo=figma" alt="figma / adoble xd / sketch logos" title="figma / adoble xd / sketch" height="25" />
+	&nbsp; <img src="https://img.shields.io/badge/figma / Adobe XD / sketch-282C34?logo=figma" alt="figma / Adobe XD / sketch logos" title="figma / Adobe XD / sketch" height="25" />
 	&nbsp;
 </p>
 	
