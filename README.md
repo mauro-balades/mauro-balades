@@ -1,10 +1,10 @@
 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mauro-balades/mauro-balades/master/logo.svg" />
+	<img src="https://raw.githubusercontent.com/mauro-balades/mauro-balades/master/banner.png" />
 </p>
 
-# Hello, i am mauro balades <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hello, i am mauro baladés <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I am a student / programmer, always to trying to learn new things.
 
@@ -55,11 +55,9 @@ I am a student / programmer, always to trying to learn new things.
 	&nbsp;
 </p>
 	
-##### ... and more stuf like: amazon linux, jeskinfile, Docker, ...
-    
-    
-    
-# Some projects
+... and more stuf like: amazon linux, jeskinfile, Docker, ...
+
+**NOTE:** (I had another account and this one is new so you can't see my past contributions)
 
 <h3>
 	
@@ -101,5 +99,3 @@ print(me.jsonify())
     	Ko-fi
     </a>
 <h3>
-
-**NOTE:** (I had another account and this one is new so you can't see my past contributions)
