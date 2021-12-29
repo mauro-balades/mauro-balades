@@ -12,7 +12,6 @@ I am currently a student that likes computer science. I am always interested to 
 - To see my contributions, go to [my contributions profile](https://github.com/maurobalades-contributions) 
 - To see my personal card, run: `npx card-mauro`
 
-<br />
 
 <h4 align="center">
 	<a href="https://twitter.com/Maubg7" target="_blank">
