@@ -10,9 +10,9 @@ I am currently a student that likes computer science. I am always interested to 
 - 🥳 Outside tech, 🎮 I love to play games, 🥁 play music in concerts, 🎵 listen to music, and 🌴 explore the world.
 - 📫 Reach out to me at <a href="mauro.balades@stutanota.com">mauro.balades@stutanota.com</a>
 - 🤝 To see my contributions, go to [my contributions profile](https://github.com/maurobalades-contributions) 
-- 👤 To see my personal card, run: `npx card-mauro`
+- 👤 To see my personal card, run: <sup><kbd>***$ npx card-mauro***</kbd>
 
-I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. You can checkout my website [here](https://maucode.com) and my twitter [here](https://twitter.com/Mauro60715204).
+I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd> to see my Twitter.
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Contributions***
 Here is a graph of my contributions.
