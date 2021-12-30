@@ -1,5 +1,5 @@
 
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+<img align="right" width=300px alt="Cat" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -12,17 +12,9 @@ I am currently a student that likes computer science. I am always interested to 
 - 🤝 To see my contributions, go to [my contributions profile](https://github.com/maurobalades-contributions) 
 - 👤 To see my personal card, run: `npx card-mauro`
 
+I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. You can checkout my website [here](https://maucode.com) and my twitter [here](https://twitter.com/Mauro60715204).
 
-<h4 align="center">
-	<a href="https://twitter.com/Maubg7" target="_blank">
-    	Twitter
-    </a>
-     · 
-	<a href="https://maucode.com" target="_blank">
-    	Website
-    </a>
-     · 
-	<a href="https://ko-fi.com/maurobalades" target="_blank">
-    	Ko-fi
-    </a>
-<h3>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Contributions***
+Here is a graph of my contributions.
+
+![graph (https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)](https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)
