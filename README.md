@@ -14,7 +14,7 @@ I am currently a student that likes computer science. I am always interested to 
 
 I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd></sup> to see my Twitter.
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Contributions***
+## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">&nbsp;***Contributions***
 Here is a graph of my contributions.
 
 ![graph (https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)](https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)
