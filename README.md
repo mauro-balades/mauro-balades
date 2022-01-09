@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am currently a student that likes computer science. I am always interested to start a new project because I love colaborate with other developers. Feel free to checkout [my repositories](https://github.com/mauro-balades?tab=repositories) and my [contributions profile](https://github.com/maurobalades-contributions) and contact me if you need me.
+I am currently a student that likes computer science 🤓. I am always interested to start a new project because I love colaborate with other developers. Feel free to checkout [my repositories](https://github.com/mauro-balades?tab=repositories) and my [contributions profile](https://github.com/maurobalades-contributions) and contact me if you need me.
 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
