@@ -22,7 +22,7 @@ I love making little projects that are usefull to sociaety and some of them I us
 * ➕ [Bash++](https://github.com/mauro-balades/bash-plusplus) -  Bring bash to the next level.
 * 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher. 
 * 📦 [lwpm](https://github.com/mauro-balades/lwpm) - A Light weight package manager.
-* 🐈 [snowball](https://github.com/snowball-lang/snowball) - Snowball is a low-weight, statically typed, object oriented programming language with garbage collector and module system.
+* 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
 
 
 
