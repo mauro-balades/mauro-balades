@@ -23,7 +23,7 @@ I love making little projects that are usefull to sociaety and some of them I us
 * 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher. 
 * 📦 [lwpm](https://github.com/mauro-balades/lwpm) - A Light weight package manager.
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
-* <img src="https://avatars.githubusercontent.com/u/83232058?s=400&u=25d52914ea99140a19dba84b6f9fc07713528838&v=4" width="15px">  [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
+* 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
 
 
 <!--todo: finish the projects list-->
