@@ -8,7 +8,7 @@ I am currently a student that likes computer science 🤓. I am always intereste
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
 - 🥳 Outside tech, 🎮 I love to play games, 🥁 play music in concerts, 🎵 listen to music, and 🌴 explore the world.
-- 📫 Reach out to me at <a href="mauro.balades@stutanota.com">mauro.balades@stutanota.com</a>
+- 📫 Reach out to me at <a href="mauro.balades@tutanota.com">mauro.balades@tutanota.com</a>
 - 🤝 To see my contributions, go to [my contributions profile](https://github.com/maurobalades-contributions) 
 - 👤 To see my personal card, run: <sup><kbd>***$ npx card-mauro***</kbd>
   
