@@ -14,6 +14,8 @@ I am currently a student that likes computer science 🤓. I am always intereste
   
 I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd></sup> to see my Twitter.
   
+![](https://komarev.com/ghpvc/?username=mauro-balades&color=lightgrey)  
+  
 ## Projects
   
 I love making little projects that are usefull to sociaety and some of them I use it daily.
