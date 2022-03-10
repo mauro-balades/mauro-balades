@@ -30,6 +30,8 @@ I love making little projects that are usefull to sociaety and some of them I us
 * 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
 * 🌐 [expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
 * 🛕 [yate](https://github.com/mauro-balades/yate) - Yet another template engine. Yate is a small, fast html template engine.
+* 💻 [NativeTS](https://github.com/mauro-balades/NativeTS) - A small typescript compiler to llvm.
+  
   
 <!--todo: finish the projects list-->
   
