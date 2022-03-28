@@ -37,8 +37,10 @@ I love making little projects that are usefull to sociaety and some of them I us
 ### ⭐ Skills
 Technologies I am familiar with/use on a daily basis.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,rust,react,py,cpp,c,bash,laravel,nodejs,mysql,php,vim,git)](https://skillicons.de)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,react,py,cpp,c,bash,laravel,nodejs,mysql,php,vim,git)](https://skillicons.dev)
 
+Note that I also know some stuff but [skillicons.dev](https://skillicons.dev) does not have them...
+  
 ## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">&nbsp;***Contributions***
 Here is a graph of my contributions.
 
