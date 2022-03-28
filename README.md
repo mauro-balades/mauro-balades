@@ -33,7 +33,10 @@ I love making little projects that are usefull to sociaety and some of them I us
 * 💻 [NativeTS](https://github.com/mauro-balades/NativeTS) - A small typescript compiler to llvm.
   
   
-<!--todo: finish the projects list-->
+### ⭐ Skills
+Technologies I am familiar with/use on a daily basis.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,react,py,cpp,c,bash,laravel,nodejs,mysql,php,vim,git)](https://skillicons.de
   
 **And many more!!!** You can see them by going to the repositories tab (or in [my portfolio](https://maucode.com)) and on the filters, click `sources`. You can also check out some of my organizations to see some of by *bigger* projects such as: A search engine, A programming language and more.
 
