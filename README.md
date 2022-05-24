@@ -26,23 +26,18 @@ I love making little projects that are usefull to sociaety and some of them I us
 * 🤯 [Brainfuck](https://github.com/mauro-balades/mini-brainfuck) - A super small brainfuck interpreter with some extensions made in Rust.
 * ➕ [Bash++](https://github.com/mauro-balades/bash-plusplus) -  Bring bash to the next level.
 * 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher. 
-* 📦 [lwpm](https://github.com/mauro-balades/lwpm) - A Light weight package manager.
+* 🗿 [site head](https://github.com/mauro-balades/site-head) - Create meta tags easy and fast.
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
 * 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
 * 🌐 [expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
 * 🛕 [yate](https://github.com/mauro-balades/yate) - Yet another template engine. Yate is a small, fast html template engine.
 * 💻 [NativeTS](https://github.com/mauro-balades/NativeTS) - A small typescript compiler to llvm.
+* 🌳 [Cpp HTML parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML parser, returning a HTML AST.
+* ⚫ [Blobify](https://github.com/mauro-balades/blobify) - Create buautiful cursors for your website
   
-**And many more!!!** You can see them by going to the repositories tab (or in [my portfolio](https://maucode.com)) and on the filters, click `sources`. You can also check out some of my organizations to see some of by *bigger* projects such as: A search engine, A programming language and more.
+**And many more!** You can see them by going to the repositories tab (or in [my portfolio](https://maucode.com)) and on the filters, click `sources`. You can also check out some of my organizations to see some of by *bigger* projects such as: A search engine, A programming language and more.
   
 ### ⭐ Skills
 Technologies I am familiar with/use on a daily basis.
 
 [![My Skills](https://skillicons.dev/icons?i=ts,rust,react,py,cpp,c,bash,laravel,nodejs,mysql,php,vim,git)](https://skillicons.dev)
-
-Note that I also know some stuff but [skillicons.dev](https://skillicons.dev) does not have them...
-  
-## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">&nbsp;***Contributions***
-Here is a graph of my contributions.
-
-![graph (https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)](https://activity-graph.herokuapp.com/graph?username=mauro-balades&theme=github)
