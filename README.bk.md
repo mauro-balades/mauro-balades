@@ -17,7 +17,7 @@ I am currently a student that likes computer science 🤓. I am always intereste
 - 👤 To see my personal card, run: <sup><kbd>***$ npx card-mauro***</kbd>
   
 I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd></sup> to see my Twitter.
-  
+
   
 ## Projects
   
@@ -25,7 +25,7 @@ I love making little projects that are usefull to sociaety and some of them I us
   
 * 🤯 [Brainfuck](https://github.com/mauro-balades/mini-brainfuck) - A super small brainfuck interpreter with some extensions made in Rust.
 * ➕ [Bash++](https://github.com/mauro-balades/bash-plusplus) -  Bring bash to the next level.
-* 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher. 
+* 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher.
 * 🗿 [site head](https://github.com/mauro-balades/site-head) - Create meta tags easy and fast.
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
 * 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
