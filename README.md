@@ -1,6 +1,10 @@
 
 <img align="left" width="200" src="./img/hand2.png">
 
+<br/>
+<br/>
+
+
 ### Hello 👋
 
 A software developer, designer and music enthusiast from Spain.
