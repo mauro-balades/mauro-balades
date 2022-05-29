@@ -2,7 +2,6 @@
 <img align="left" width="200" src="./img/hand2.png">
 
 <br/>
-<br/>
 
 
 ### Hello 👋
@@ -28,6 +27,9 @@ Below, you can see some of my favourite projects:
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
 * 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a bussines that cares about privacy, not your data.
 * 🌐 [expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
+
+<img align="right" width="200" src="./img/hand1.png">
+
 * 🛕 [yate](https://github.com/mauro-balades/yate) - Yet another template engine. Yate is a small, fast html template engine.
 * 💻 [NativeTS](https://github.com/mauro-balades/NativeTS) - A small typescript compiler to llvm.
 * 🌳 [Cpp HTML parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML parser, returning a HTML AST.
