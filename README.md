@@ -2,7 +2,6 @@
 <img align="left" width="200" src="./img/hand2.png">
 
 <br/>
-<br/> <!-- FOR GITHUB PROFILE -->
 
 ## Hello 👋
 
@@ -15,6 +14,7 @@
 </p>
 
 <br/>
+<br/> <!-- FOR GITHUB PROFILE -->
 
 I write in diferent languages such as **Rust 🦀**, **Python 🐍** and **more**. I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variaety of diferent instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd></sup> to see my Twitter.
 
