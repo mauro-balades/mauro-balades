@@ -9,6 +9,7 @@
 
 <p>
     A software developer, designer and music enthusiast from Spain.
+    <br/>
     <a href="https://www-lac.vercel.app">Website</a> •
     <a href="mailto:mauro.balades@tutanota.com">Email</a>
 </p>
