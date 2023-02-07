@@ -21,18 +21,12 @@ I write in different languages such as **Rust 🦀**, **Python 🐍** and **more
 
 Below, you can see some of my favourite projects:
 
-* 🤯 [Brainfuck](https://github.com/mauro-balades/mini-brainfuck) - A super small brainfuck interpreter with some extensions made in Rust.
-* ➕ [Bash++](https://github.com/mauro-balades/bash-plusplus) -  Bring bash to the next level.
-* 🧑 [SF](https://github.com/mauro-balades/sf) -  A small system information fetcher.
-* 🗿 [site head](https://github.com/mauro-balades/site-head) - Create meta tags easy and fast.
+* 🤯 [Aurora.css](https://github.com/mauro-balades/aurora.css) - A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax.
+* ༄  [Breeze](https://github.com/mauro-balades/breeze) -  Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java.
+* 🚇 [PassageWay](https://github.com/passageway-proxy) -  PassageWay allows you to create/track/customize local servers and expose them to the *real world*.
+* 🔗 [Cyda](https://github.com/cyda-hub) - The URL builder everyone needs.
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
 
 <img align="right" width="200" src="./img/hand1.png">
 
-* 🔓 [wonoly](https://github.com/wonoly) - Wonoly is a business that cares about privacy, not your data.
-* 🌐 [expross](https://github.com/mauro-balades/expross) - Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
-* 🛕 [yate](https://github.com/mauro-balades/yate) - Yet another template engine. Yate is a small, fast html template engine.
-* 💻 [NativeTS](https://github.com/mauro-balades/NativeTS) - A small typescript compiler to llvm.
-* 🌳 [Cpp HTML parser](https://github.com/mauro-balades/cpp-html-parser) - A HTML parser, returning a HTML AST.
-* ⚫ [Blobify](https://github.com/mauro-balades/blobify) - Create beautiful cursors for your website. 
 
