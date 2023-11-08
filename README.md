@@ -13,20 +13,20 @@
 
 <br/> <!-- FOR GITHUB PROFILE -->
 
-I write in different languages such as **Rust 🦀**, **Python 🐍** and **more**. I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variety of different instruments. <sup><kbd>***[Click here](https://maucode.com)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/Mauro60715204)***</kbd></sup> to see my Twitter.
+I write in different languages such as **Rust 🦀**, **Python 🐍** and **more**. I love sharing my knowledge with others and I always try to help everyone. I also love to play video games and I play a variety of different instruments. <sup><kbd>***[Click here](https://www-lac.vercel.app)***</kbd></sup> to see my website and <sup><kbd>***[Click here](https://twitter.com/MauroBGM)***</kbd></sup> to see my Twitter.
 
 
-Below, you can see some of my favourite projects:
+Below, you can see some of my favorite projects:
 
 
-* 🤯 [Aurora.css](https://github.com/mauro-balades/aurora.css) - A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax.
-* ༄  [Breeze](https://github.com/mauro-balades/breeze) -  Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java.
+* 🤯 [Aurora.css](https://github.com/mauro-balades/aurora.css) - A CSS preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax.
+* ༄  [Breeze](https://github.com/mauro-balades/breeze) -  Breeze is a lightweight, highly customizable build tool for different languages such as C(++) and Java.
 * 🚇 [PassageWay](https://github.com/passageway-proxy) -  PassageWay allows you to create/track/customize local servers and expose them to the *real world*.
 * 🔗 [Cyda](https://github.com/cyda-hub) - The URL builder everyone needs.
-* 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object oriented programming language with garbage collector and module system.
+* 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object-oriented programming language with garbage collector and module system.
 
 <img align="right" width="150" src="./img/hand1.png">
 
 These are some of my projects that I had more fun with. I have *many* more projects that I loved working on and that made me advance in a certain skill. <sup><kbd>***[Repositories](https://github.com/mauro-balades?tab=repositories&q=&type=source&language=&sort=) (I have some marked as private)***</kbd></sup> and I have some projects that I needed to make into `organizations`, check them out too. 
 
-I love every single aspect of technology such as web development/design, exploring the world of low level languages, small but interesting programs and software that challenged me to think critically and explore the wonders that the world of technology. 
+I love every single aspect of technology such as web development/design, exploring the world of low-level languages, small but interesting programs, and software that challenged me to think critically and explore the wonders that the world of technology. 
