@@ -19,7 +19,6 @@ Below, you can see some of my favorite projects:
 
 * 🤯 [Aurora.css](https://github.com/mauro-balades/aurora.css) - A CSS preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax.
 * ༄  [Breeze](https://github.com/mauro-balades/breeze) -  Breeze is a lightweight, highly customizable build tool for different languages such as C(++) and Java.
-* 🚇 [PassageWay](https://github.com/passageway-proxy) -  PassageWay allows you to create/track/customize local servers and expose them to the *real world*.
 * 🔗 [Cyda](https://github.com/cyda-hub) - The URL builder everyone needs.
 * 🐈 [snowball](https://github.com/snowball-lang/snowball) - A low-weight, statically typed, object-oriented programming language with garbage collector and module system.
 
