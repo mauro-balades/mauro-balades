@@ -13,7 +13,7 @@
 
 <br/> <!-- FOR GITHUB PROFILE -->
 
-These are some of my projects that I had more fun with. 😄 I have *many* more projects that I loved working on and that made me advance in a certain skill. <sup><kbd>***[Repositories](https://github.com/mauro-balades?tab=repositories&q=&type=source&language=&sort=) (I have some marked as private)***</kbd></sup> and I have some projects that I needed to make into `organizations`, check them out too. 
+These are some of my projects that I had more fun with. 😄 I have *many* more projects that I loved working. <sup><kbd>***[Repositories](https://github.com/mauro-balades?tab=repositories&q=&type=source&language=&sort=)***</kbd></sup> and I have some projects that I needed to make into `organizations`, check them out too. 
 
 Below, you can see some of my favorite projects:
 
