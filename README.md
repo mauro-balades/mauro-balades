@@ -13,8 +13,6 @@
 
 <br/> <!-- FOR GITHUB PROFILE -->
 
-These are some of my projects that I had more fun with. 😄 I have *many* more projects that I loved working. <sup><kbd>***[Repositories](https://github.com/mauro-balades?tab=repositories&q=&type=source&language=&sort=)***</kbd></sup> and I have some projects that I needed to make into `organizations`, check them out too. 
-
 Below, you can see some of my favorite projects:
 
 * 🤯 [Aurora.css](https://github.com/mauro-balades/aurora.css) - A CSS preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax.
